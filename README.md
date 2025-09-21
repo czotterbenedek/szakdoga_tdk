@@ -1,1 +1,1 @@
-# szakdoga_tdk
+# Szakdolgozat és TDK
