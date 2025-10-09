@@ -1,0 +1,7 @@
+/data/
+
+.DS_Store
+
+/__pycache__/
+
+/faiss/__pycache__/
