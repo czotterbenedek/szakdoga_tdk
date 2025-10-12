@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="1 oldal" id="wI6BksSly18XZ3uJfsxo">
-    <mxGraphModel dx="1502" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="976" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,8 +55,14 @@
             <mxPoint x="1060" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="snZoiZan-CD7s3evwRZL-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+        <mxCell id="snZoiZan-CD7s3evwRZL-1" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="100" width="1130" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="A9yZb9H9MPbL-8OhquA2-1" value="Generation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="snZoiZan-CD7s3evwRZL-1">
+          <mxGeometry x="890" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A9yZb9H9MPbL-8OhquA2-2" value="Retrieval" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="snZoiZan-CD7s3evwRZL-1">
+          <mxGeometry x="430" y="190" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
