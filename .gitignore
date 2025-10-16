@@ -5,3 +5,13 @@
 /__pycache__/
 
 /faiss/__pycache__/
+
+/notebooks_for_running/__pycache__/
+
+/data/results/
+
+*.xlsx
+*.xls
+~$*.xls*
+
+.gitignore
