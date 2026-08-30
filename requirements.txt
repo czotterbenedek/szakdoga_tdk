@@ -1,0 +1,23 @@
+# Core data stack
+numpy
+pandas
+matplotlib
+plotly
+tqdm
+
+# ML / clustering / retrieval
+scikit-learn
+umap-learn
+river
+faiss-cpu
+
+# NLP / datasets
+datasets
+nltk
+sentence-transformers
+transformers
+openai
+
+# Notebook runtime (recommended for this repo's .ipynb workflows)
+ipykernel
+jupyterlab
